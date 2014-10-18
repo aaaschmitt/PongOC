@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4F26C0A9-BFEE-4F94-B2E0-6423FE9F04F3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PongOC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D2039600-EA51-479C-9702-64961FC79645</key>
+		<string>https://github.com/aaaschmitt/PongOC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PongOC/PongOC.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D2039600-EA51-479C-9702-64961FC79645</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/aaaschmitt/PongOC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D2039600-EA51-479C-9702-64961FC79645</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D2039600-EA51-479C-9702-64961FC79645</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PongOC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
